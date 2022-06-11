@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text } from 'react-native';
 
+// can add own props easily, reduces need to repeat some code
 export default function Countertext(props) {
     console.log(props)
 
