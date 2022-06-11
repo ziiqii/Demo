@@ -3,6 +3,6 @@ import { Text, View, StyleSheet, Button } from 'react-native';
 
 export default function Demo() {
   return <View>
-    <Text>'Hello!'</Text>
+    <Text>'Hello, world!'</Text>
   </View>;
 }
